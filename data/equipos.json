@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Leones F.C",
+    "categoria": "Sub 15",
+	"entrenador": 548516
+  },
+  {
+    "nombre": "Colonia F.C",
+    "categoria": "Sub 15",
+	"entrenador": 465215
+  },
+  {
+    "nombre": "Toros F.C",
+    "categoria": "Sub 15",
+	"entrenador": 659852
+  },
+  {
+    "nombre": "Tigres F.C",
+    "categoria": "Sub 15",
+	"entrenador": 649853
+  }
+]

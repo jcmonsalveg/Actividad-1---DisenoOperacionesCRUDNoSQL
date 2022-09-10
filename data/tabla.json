@@ -1,0 +1,46 @@
+[
+  {
+    "equipo": "Leones F.C",
+    "PJ": 1,
+    "PG": 1,
+    "PE": 0,
+    "PP": 0,
+    "GF": 2,
+    "GE": 1,
+    "DG": "+1",
+    "puntos": 3
+  },
+  {
+    "equipo": "Colonia F.C",
+    "PJ": 1,
+    "PG": 0,
+    "PE": 1,
+    "PP": 0,
+    "GF": 1,
+    "GE": 2,
+    "DG": "-1",
+    "puntos": 0
+  },
+  {
+    "equipo": "Toros F.C",
+    "PJ": 1,
+    "PG": 0,
+    "PE": 1,
+    "PP": 0,
+    "GF": 1,
+    "GE": 3,
+    "DG": "-2",
+    "puntos": 0
+  },
+  {
+    "equipo": "Tigres F.C",
+    "PJ": 1,
+    "PG": 1,
+    "PE": 0,
+    "PP": 0,
+    "GF": 3,
+    "GE": 1,
+    "DG": "+2",
+    "puntos": 3
+  }
+]
